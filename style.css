@@ -54,6 +54,7 @@ body {
   flex-direction: column;
   gap: 20px;
   padding: 100px;
+  border-radius: 50px 0 0 50px;
 }
 .item-title {
   font-size: 1.5rem;
@@ -230,5 +231,6 @@ hr {
   .cart-overview {
     height: max-content;
     margin-top: 30px;
+    border-radius: 50px 50px 0 0;
   }
 }
