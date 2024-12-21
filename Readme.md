@@ -23,6 +23,6 @@ This is a simple shopping cart interface that displays items in the cart and the
 
 ## Author
 
-👤 **Nesrya Abdulaziz**
+👤 **Nesrya Abdulkadir**
 
 - [Nesrya Abdulkadir](https://github.com/NesryaAbdulkadir)
